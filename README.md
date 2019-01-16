@@ -3,4 +3,4 @@ Game snake v1.0
 
 Game build with c++
 
-developer: renata48
+developer: renata48/cookie1599
