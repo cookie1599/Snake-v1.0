@@ -181,13 +181,11 @@ int main()
     cout<<(pilih);
     tulisTengah("Selamat Datang",5);
     tulisTengah("================================", 6);
-    tulisTengah("GAME Snake by renata48 v 1.0", 7);
+    tulisTengah("GAME Snake by renata48 v 2.0", 7);
     tulisTengah("================================", 8);
     tulisTengah("Follow Me :",10);
     tulisTengah("Line : @renataa48 | IG : @rnta48 ", 12);
     tulisTengah("pilih kode nya : 1. untuk bermain , 2. untuk keluar", 14);
-    tulisTengah("1.main",15);
-    tulisTengah("2.keluar",16);
     tulisTengah("anda pilih yang mana : ",18);
     cin>>pilih;
 
@@ -205,7 +203,7 @@ int main()
     system("cls");
     tulisTengah("Selamat Datang",5);
     tulisTengah("================================", 6);
-    tulisTengah("GAME Snake by renata48 v 1.0", 7);
+    tulisTengah("GAME Snake by renata48 v 2.0", 7);
     tulisTengah("================================", 8);
     tulisTengah("Follow Me :",9);
     tulisTengah("Line : @renataa48 | IG : @rnta48 ", 10);
