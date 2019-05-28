@@ -1,11 +1,10 @@
-# Snake-v1.0
+# Snake-v2.0
 Game snake v1.0
 
 Update v.2
 
 -remove double main menu 
 
--modern design
 
 Game build with c++
 
